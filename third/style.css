@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.top-bottom {
+    background-color: #333333;
+    height: 50px;
+    line-height: 50px;
+    float: left;
+    width: 100%;
+}
+
+.top {
+    color: white;
+    float: left;
+    padding-left: 40px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.container {
+    width: 48%;
+}
+
+p {
+    margin-top: 15px;
+}
+
+main {
+    width: 100%;
+    padding: 40px;
+    float: left;
+}
+
+h1 {
+    font-size: 47px;
+}
+
+.box {
+    width: 100%;
+    height: 250px;
+    background-color: #D8D8D8;
+}
